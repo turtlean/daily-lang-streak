@@ -1,29 +1,29 @@
 [
-  {
-    "expression": "put up with",
-    "context": "Related with difficult tasks",
-    "meaning": "endure, tolerate",
-    "example": "after a lifetime of putting up with English, you should have incorporated a lot of tools",
-    "extra": "",
-    "keywords": "cope, coping, facing, withstand, struggle",
-    "score": 0
-  },
-  {
-    "expression": "put off",
-    "context": "procrastination",
-    "meaning": "make someone not want to do something",
-    "example": "Lack of parking was putting potential customers off",
-    "extra": "Also to make someone not like someone or something",
-    "keywords": "procrastination, uncompleted tasks, postpone",
-    "score": 0
-  },
-  {
-    "expression": "break something down",
-    "context": "Complex tasks. Smaller tasks",
-    "meaning": "Divide a complex task into smaller chunks",
-    "example": "Let's break this down so we can handle it easily",
-    "extra": "",
-    "keywords": "divide, split, easy, easily, simple",
-    "score": 0
-  }
+    {
+        "expression": "put up with",
+        "context": "Related with difficult tasks",
+        "meaning": "endure, tolerate",
+        "example": "after a lifetime of putting up with English, you should have incorporated a lot of tools",
+        "extra": "",
+        "keywords": "cope, coping, facing, withstand, struggle",
+        "score": 0
+    },
+    {
+        "expression": "put off",
+        "context": "procrastination",
+        "meaning": "make someone not want to do something",
+        "example": "Lack of parking was putting potential customers off",
+        "extra": "Also to make someone not like someone or something",
+        "keywords": "procrastination, uncompleted tasks, postpone",
+        "score": 0
+    },
+    {
+        "expression": "break something down",
+        "context": "Complex tasks. Smaller tasks",
+        "meaning": "Divide a complex task into smaller chunks",
+        "example": "Let's break this down so we can handle it easily",
+        "extra": "",
+        "keywords": "divide, split, easy, easily, simple",
+        "score": 0
+    }
 ]
