@@ -1,8 +1,3 @@
-TODO:
-- Add SQLite to python's project 
-- Add second account to GitHub
-- Think a better name for the project
-
 English dict: 3 consecutive lines
 
 Python!
@@ -49,6 +44,3 @@ Same expressions with different meanings have separate entries
 
 First step is transforming YML into JSON
 Eventually, it will become a huge file. I know that. But it's ok.
-
-Challenge is
-
