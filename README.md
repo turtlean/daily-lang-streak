@@ -1,3 +1,7 @@
+Commands:
+python3 main.py test 0
+python3 main.py definition "put" "postpone"
+
 English dict: 3 consecutive lines
 
 Python!
