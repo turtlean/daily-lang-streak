@@ -1,3 +1,6 @@
+# daily-recall
+A command line tool for quickly recalling words and phrases of your second language
+
 Commands:
 python3 main.py test 0
 python3 main.py definition "put" "postpone"
