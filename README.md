@@ -51,3 +51,8 @@ Same expressions with different meanings have separate entries
 
 First step is transforming YML into JSON
 Eventually, it will become a huge file. I know that. But it's ok.
+
+From command line:
+
+test-me.sh
+definition.sh
