@@ -3,6 +3,7 @@ import os
 import random
 from collections import OrderedDict
 
+### I think this is working
 DICTIONARY_FILENAME = os.environ.get('DICTIONARY_FILENAME')
 
 with open(DICTIONARY_FILENAME) as json_file:
