@@ -1,8 +1,9 @@
 import json
+import os
 import random
 from collections import OrderedDict
 
-DICTIONARY_FILENAME = "./dictionary.json"
+DICTIONARY_FILENAME = os.environ.get('DICTIONARY_FILENAME')
 
 with open(DICTIONARY_FILENAME) as json_file:
   dictionary = json.load(json_file)
