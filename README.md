@@ -4,6 +4,8 @@ A command line tool for quickly recalling words and phrases of your second langu
 Commands:
 python3 main.py test 0
 python3 main.py definition "put" "postpone"
+python3 main.py add
+python3 main.py count
 
 English dict: 3 consecutive lines
 

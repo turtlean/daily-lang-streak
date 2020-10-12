@@ -14,6 +14,7 @@ sql_create_entries_table = """
                                   meaning TEXT,
                                   example TEXT,
                                   extra TEXT,
+                                  keywords TEXT,
                                   score	INTEGER
                               ); 
                             """

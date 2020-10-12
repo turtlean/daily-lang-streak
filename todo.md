@@ -1,8 +1,7 @@
 TODO:
 - Add SQLite to python's project 
-  - Create database + schema from command line
-  - Is the database overwritten if it already exists?
-  - Rewrite dictionary.py using SQLite instead of JSON 
+  - Update Entry 
+  - Create an instance model from query. Don't make the object by hand
 - Add tests
   * Check unit testing frameworks
   * Think of different approaches
