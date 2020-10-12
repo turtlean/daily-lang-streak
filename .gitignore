@@ -1,4 +1,6 @@
 *.pyc
 dictionary.json
 dictionary_backup.json
+dictionary.db
+foo.py
 
