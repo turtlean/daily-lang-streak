@@ -1,4 +1,4 @@
-# daily-recall
+# Daily lang streak
 A command line tool for quickly recalling words and phrases of your second language
 
 Commands:
